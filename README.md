@@ -8,4 +8,4 @@ Using HTML and CSS
 
 <img src="./assets/images/screencap.jpg" alt="screencap from finished live webpage" />
 
-https://jsumis.github.io/07-hw-updated-portfolio/
+https://jsumis.github.io/14-hw-updated-portfolio3/
